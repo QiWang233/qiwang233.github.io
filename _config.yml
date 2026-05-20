@@ -25,6 +25,10 @@ favicon_dark: ./assets/profile-portrait.jpg
 
 enable_footnote: false
 
+visitor_map:
+  enabled: true
+  clustrmaps_id: ""
+
 exclude:
   - README.md
   - qiwang-francis-site.zip

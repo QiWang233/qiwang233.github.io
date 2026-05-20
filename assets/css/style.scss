@@ -376,6 +376,58 @@ section ul li ul li::before {
   color: #92400e;
 }
 
+.visitor-map {
+  display: flex;
+  width: min(100%, 520px);
+  min-height: 190px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 14px;
+  border: 1px solid var(--qw-border);
+  border-radius: 8px;
+  background: var(--qw-card);
+  box-shadow: var(--qw-shadow);
+  padding: 14px;
+}
+
+.visitor-map script {
+  display: block;
+}
+
+.visitor-map-placeholder {
+  display: grid;
+  width: 100%;
+  min-height: 160px;
+  place-items: center;
+  align-content: center;
+  gap: 6px;
+  border: 1px dashed var(--qw-border);
+  border-radius: 6px;
+  color: var(--qw-gray);
+  text-align: center;
+  padding: 18px;
+}
+
+.visitor-map-placeholder span {
+  color: var(--qw-navy);
+  font-weight: 650;
+}
+
+.visitor-map-placeholder small {
+  max-width: 360px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.visitor-map-placeholder code {
+  border: 1px solid var(--qw-border);
+  border-radius: 4px;
+  background: #fff;
+  color: var(--qw-blue);
+  font-size: 11px;
+  padding: 1px 4px;
+}
+
 @media (max-width: 720px) {
   .wrapper {
     display: block;
@@ -481,5 +533,9 @@ section ul li ul li::before {
 
   .publications ol.bibliography li .title a:hover {
     color: #60a5fa;
+  }
+
+  .visitor-map-placeholder code {
+    background: #1e293b;
   }
 }

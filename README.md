@@ -8,6 +8,7 @@ Personal academic homepage built with GitHub Pages.
 - `index.md`: homepage content
 - `_layouts/homepage.html`: page layout
 - `_includes/projects.md`: selected publications
+- `_includes/visitors.md`: visitor map widget
 - `assets/css/style.scss`: custom styles
 
 ## Development
@@ -21,3 +22,5 @@ bundle exec jekyll serve
 ```
 
 Then open `http://localhost:4000`.
+
+To enable the live visitor map, add your ClustrMaps widget id to `visitor_map.clustrmaps_id` in `_config.yml`.
