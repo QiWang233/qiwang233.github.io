@@ -1,0 +1,33 @@
+url: "https://qiwang233.github.io"
+baseurl: ""
+
+# Basic Information
+title: Qi Wang
+position: M.E. in Software Engineering
+affiliation: Xidian University
+subaffiliation: Zhejiang University of Technology
+affiliation_link: https://www.xidian.edu.cn/
+subaffiliation_link: https://www.zjut.edu.cn/
+email: qiwang0720@stu.xidian.edu.cn
+
+# Search Engine Optimization
+keywords: Qi Wang, Wang Qi, Embodied AI, LLM, event-based vision, text-to-3D generation, score distillation, DailyDVS-200
+description: Personal academic homepage of Qi Wang, working on Embodied AI, LLMs, event-based vision, text-to-3D generation, and multimodal interaction.
+canonical: https://qiwang233.github.io/
+
+# Links
+github_link: https://github.com/QiWang233
+
+# Images
+avatar: ./assets/profile-portrait.jpg
+favicon: ./assets/profile-portrait.jpg
+favicon_dark: ./assets/profile-portrait.jpg
+
+enable_footnote: false
+
+exclude:
+  - README.md
+  - qiwang-francis-site.zip
+  - screenshots
+  - assets/profile.jpg
+  - "*.pdf"
