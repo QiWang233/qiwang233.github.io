@@ -27,7 +27,7 @@ enable_footnote: false
 
 visitor_map:
   enabled: true
-  clustrmaps_id: ""
+  mapmyvisitors_id: "tnkVSSkrxSOsoFq7noS2qT82YiWDMIEh3VVala30MHA"
 
 exclude:
   - README.md

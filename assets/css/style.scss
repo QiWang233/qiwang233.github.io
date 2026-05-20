@@ -394,6 +394,11 @@ section ul li ul li::before {
   display: block;
 }
 
+.visitor-map iframe,
+.visitor-map img {
+  max-width: 100%;
+}
+
 .visitor-map-placeholder {
   display: grid;
   width: 100%;

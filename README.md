@@ -23,4 +23,4 @@ bundle exec jekyll serve
 
 Then open `http://localhost:4000`.
 
-To enable the live visitor map, add your ClustrMaps widget id to `visitor_map.clustrmaps_id` in `_config.yml`.
+To enable the live visitor map, add your MapMyVisitors widget id to `visitor_map.mapmyvisitors_id` in `_config.yml`.
