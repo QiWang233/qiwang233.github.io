@@ -4,7 +4,7 @@
 <div class="visitor-map" aria-label="Visitor map">
   {% assign mapmyvisitors_id = site.visitor_map.mapmyvisitors_id | default: "" %}
   {% if mapmyvisitors_id != "" %}
-    <script id="mapmyvisitors" type="text/javascript" src="https://mapmyvisitors.com/map.js?d={{ mapmyvisitors_id }}&cl=ffffff&w=a"></script>
+    <script id="mapmyvisitors" type="text/javascript" src="https://mapmyvisitors.com/map.js?d={{ mapmyvisitors_id }}&cl=ffffff&w=a" async defer></script>
   {% else %}
     <div class="visitor-map-placeholder">
       <span>Visitor map is ready.</span>

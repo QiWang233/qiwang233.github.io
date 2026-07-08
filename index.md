@@ -8,7 +8,7 @@ Hi! I am Qi Wang (王琦). I received my M.E. in Software Engineering from <a hr
 
 I enjoy building research systems that connect robust engineering with clear empirical analysis, especially for problems where visual perception, generative modeling, and real-world interaction meet.
 
-## Research Interest
+## Research Interests
 
 - Embodied AI and LLM-based agents
 - Text-to-3D generation and score distillation
@@ -40,7 +40,7 @@ I enjoy building research systems that connect robust engineering with clear emp
 - National First Prize, 2nd Aerospace Cup Mobile Robot AI Innovation Technology Challenge, 2021
 - Second Prize, Zhejiang Province University Student Mobile Communication 5G Technology Competition, 2021
 
-## Educations
+## Education
 
 - \[2022.09 - 2025.06\]: M.E., Software Engineering, <a href="https://www.xidian.edu.cn/">Xidian University</a>, China
 - \[2018.09 - 2022.06\]: B.E., Communication Engineering, <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, China

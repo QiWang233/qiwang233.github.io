@@ -14,8 +14,8 @@
     <div class="author"><strong>Qi Wang</strong> et al.</div>
     <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
     <div class="links">
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131" class="btn btn-sm z-depth-0" role="button" target="_blank">AAAI</a>
-      <a href="https://arxiv.org/abs/2511.11710" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">AAAI</a>
+      <a href="https://arxiv.org/abs/2511.11710" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
     </div>
     <div class="paper-tags">
       <span class="paper-tag">Text-to-3D</span>
@@ -37,9 +37,9 @@
     <div class="author"><strong>Qi Wang</strong> et al.</div>
     <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11182.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://github.com/QiWang233/DailyDVS-200" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
-      <a href="https://arxiv.org/abs/2407.05106" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11182.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
+      <a href="https://github.com/QiWang233/DailyDVS-200" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+      <a href="https://arxiv.org/abs/2407.05106" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
     </div>
     <div class="paper-tags">
       <span class="paper-tag tag-event">Event Camera</span>
@@ -61,8 +61,8 @@
     <div class="author"><strong>Qi Wang</strong> et al.</div>
     <div class="periodical"><em>International Conference on Sensing, Measurement & Data Analytics in the Era of Artificial Intelligence, <strong>ICSMD Oral</strong>, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2401.03828" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
-      <a href="https://doi.org/10.1109/ICSMD60522.2023.10490884" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
+      <a href="https://arxiv.org/abs/2401.03828" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://doi.org/10.1109/ICSMD60522.2023.10490884" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">DOI</a>
     </div>
     <div class="paper-tags">
       <span class="paper-tag tag-hci">Gesture Recognition</span>

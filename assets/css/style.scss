@@ -111,15 +111,15 @@ header h1 {
   font-weight: 700;
 }
 
-position {
+.position {
   display: block;
-  margin-bottom: 2px;
+  margin: 0 0 2px;
   color: var(--qw-gray);
   font-size: 0.82rem;
   font-weight: 400;
 }
 
-autocolor {
+.affiliation {
   display: block;
   color: var(--qw-blue);
   font-size: 0.82rem;
@@ -127,9 +127,9 @@ autocolor {
   line-height: 1.6;
 }
 
-email {
+.email {
   display: block;
-  margin-top: 8px;
+  margin: 8px 0 0;
   color: var(--qw-gray);
   font-family: Inter, monospace;
   font-size: 0.78rem;
@@ -599,7 +599,7 @@ section ul li ul li::before {
     background: linear-gradient(90deg, #60a5fa 0%, #1e293b 100%);
   }
 
-  autocolor {
+  .affiliation {
     color: #60a5fa;
   }
 
