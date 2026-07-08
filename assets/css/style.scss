@@ -13,8 +13,17 @@
   --qw-shadow-hover: 0 4px 20px rgba(37, 99, 235, 0.12), 0 1px 6px rgba(15, 23, 42, 0.08);
 }
 
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
+  overflow-x: hidden;
   background: #fff;
   font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 15px;
@@ -29,6 +38,10 @@ body {
   gap: 44px;
   width: min(1040px, calc(100% - 40px));
   margin: 0 auto;
+}
+
+.wrapper > * {
+  min-width: 0;
 }
 
 h1,
@@ -67,9 +80,15 @@ h2::after {
   background: linear-gradient(90deg, var(--qw-blue) 0%, var(--qw-border) 100%);
 }
 
+.section-note {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
 a {
   color: var(--qw-blue);
   transition: color 0.15s ease;
+  overflow-wrap: anywhere;
 }
 
 a:hover {
@@ -158,7 +177,11 @@ email {
 }
 
 .image.avatar img {
+  display: block;
   width: 85%;
+  max-width: 190px;
+  aspect-ratio: 1;
+  object-fit: cover;
   border: 2px solid var(--qw-border);
   border-radius: 50%;
   padding: 4px;
@@ -166,10 +189,28 @@ email {
 }
 
 section {
+  width: 100%;
   min-width: 0;
   max-width: 760px;
   padding-top: 3rem;
   padding-bottom: 4rem;
+}
+
+section p,
+section li,
+.publications,
+.publications *,
+.visitor-map,
+.visitor-map * {
+  min-width: 0;
+  max-width: 100%;
+}
+
+section p,
+section li,
+.publications ol.bibliography li .title,
+.publications ol.bibliography li .periodical {
+  overflow-wrap: break-word;
 }
 
 section > p:first-of-type {
@@ -300,10 +341,12 @@ section ul li ul li::before {
 
 .publications ol.bibliography li .title a {
   color: var(--qw-navy);
+  text-decoration: none;
 }
 
 .publications ol.bibliography li .title a:hover {
   color: var(--qw-blue);
+  text-decoration: underline;
 }
 
 .publications ol.bibliography li .author {
@@ -397,6 +440,7 @@ section ul li ul li::before {
 .visitor-map iframe,
 .visitor-map img {
   max-width: 100%;
+  height: auto;
 }
 
 .visitor-map-placeholder {
@@ -436,26 +480,96 @@ section ul li ul li::before {
 @media (max-width: 720px) {
   .wrapper {
     display: block;
-    width: min(100% - 28px, 1040px);
+    width: 100%;
+    padding: 0 16px;
   }
 
   header {
     position: static;
+    display: grid;
+    justify-items: start;
     border-right: 0;
     padding-right: 0;
-    padding-top: 2rem;
+    padding-top: 1.5rem;
+  }
+
+  .image.avatar img {
+    width: clamp(132px, 44vw, 176px);
+    max-width: 176px;
+  }
+
+  header h1 {
+    margin-top: 1rem;
+  }
+
+  h2 {
+    gap: 10px;
+    margin-top: 2.1rem;
+    white-space: normal;
+  }
+
+  h2 span {
+    flex-shrink: 0;
+    font-size: 0.9rem;
   }
 
   section {
-    padding-top: 1.5rem;
+    max-width: none;
+    padding-top: 1.25rem;
+    padding-bottom: 3rem;
+  }
+
+  section > p:first-of-type {
+    padding: 11px 14px;
   }
 
   .pub-row {
     grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .publications ol.bibliography > li {
+    padding: 12px;
   }
 
   .paper-thumb {
-    min-height: 120px;
+    min-height: 92px;
+  }
+
+  .publications ol.bibliography li .periodical {
+    overflow-wrap: anywhere;
+  }
+
+  .visitor-map {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 420px) {
+  body {
+    font-size: 14.5px;
+  }
+
+  .wrapper {
+    padding: 0 14px;
+  }
+
+  .image.avatar img {
+    width: 138px;
+  }
+
+  .side-links a {
+    min-height: 32px;
+  }
+
+  .paper-tags {
+    gap: 5px;
+  }
+
+  .paper-tag {
+    font-size: 10.5px;
+    padding: 0 8px;
   }
 }
 

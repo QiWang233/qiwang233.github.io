@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <span style="font-weight:normal;font-size:1rem;">(<em>Selected</em>)</span></h2>
+<h2 id="publications">Publications <span class="section-note">(<em>Selected</em>)</span></h2>
 
 <div class="publications">
 <ol class="bibliography">
