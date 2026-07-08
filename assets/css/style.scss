@@ -178,12 +178,13 @@ header h1 {
 
 .image.avatar img {
   display: block;
-  width: 85%;
-  max-width: 190px;
+  width: 88%;
+  max-width: 210px;
   aspect-ratio: 1;
-  object-fit: cover;
+  object-fit: contain;
+  background: #fff;
   border: 2px solid var(--qw-border);
-  border-radius: 50%;
+  border-radius: 8px;
   padding: 4px;
   box-shadow: 0 2px 12px rgba(15, 23, 42, 0.12);
 }
@@ -481,8 +482,8 @@ section ul li ul li::before {
   }
 
   .image.avatar img {
-    width: clamp(132px, 44vw, 176px);
-    max-width: 176px;
+    width: clamp(148px, 48vw, 188px);
+    max-width: 188px;
   }
 
   header h1 {
@@ -539,7 +540,7 @@ section ul li ul li::before {
   }
 
   .image.avatar img {
-    width: 138px;
+    width: 150px;
   }
 
   .side-links a {
