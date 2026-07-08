@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am Qi Wang (王琦). I received my M.E. in Software Engineering from <a href="https://www.xidian.edu.cn/">Xidian University</a> and my B.E. in Communication Engineering from <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>. My recent research interests include Embodied AI, LLMs, text-to-3D generation, event-based vision, and multimodal human-computer interaction.
+Hi! I am Qi Wang (王奇). I received my M.E. in Software Engineering from <a href="https://www.xidian.edu.cn/">Xidian University</a> and my B.E. in Communication Engineering from <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>. My recent research interests include Embodied AI, LLMs, text-to-3D generation, event-based vision, and multimodal human-computer interaction.
 
 I enjoy building research systems that connect robust engineering with clear empirical analysis, especially for problems where visual perception, generative modeling, and real-world interaction meet.
 
