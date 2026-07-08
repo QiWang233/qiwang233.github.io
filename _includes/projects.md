@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row mod-generative-row">
   <div class="col-sm-3 abbr">
-    <div class="paper-thumb thumb-tbsd">TBSD</div>
+    <img class="paper-thumb" src="{{ '/assets/publications/tbsd-thumbnail.jpg' | relative_url }}" alt="Target-Balanced Score Distillation visual results" loading="lazy" />
     <abbr class="badge">AAAI 2026</abbr>
   </div>
   <div class="col-sm-9">
@@ -29,7 +29,7 @@
 <li>
 <div class="pub-row mod-event-row">
   <div class="col-sm-3 abbr">
-    <div class="paper-thumb thumb-dailydvs">DVS</div>
+    <img class="paper-thumb" src="{{ '/assets/publications/dailydvs-thumbnail.jpg' | relative_url }}" alt="DailyDVS-200 data collection process" loading="lazy" />
     <abbr class="badge">ECCV 2024</abbr>
   </div>
   <div class="col-sm-9">
@@ -53,7 +53,7 @@
 <li>
 <div class="pub-row mod-hci-row">
   <div class="col-sm-3 abbr">
-    <div class="paper-thumb thumb-gesture">HCI</div>
+    <img class="paper-thumb" src="{{ '/assets/publications/gesture-thumbnail.jpg' | relative_url }}" alt="Desktop gesture recognition setup with Leap Motion" loading="lazy" />
     <abbr class="badge">ICSMD 2023</abbr>
   </div>
   <div class="col-sm-9">
