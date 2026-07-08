@@ -49,6 +49,6 @@ I enjoy building research systems that connect robust engineering with clear emp
 
 - Programming: Python, C++, C, Java, MATLAB
 - Tools: PyTorch, STM32, ROS, Altium Designer
-- Language: IELTS 6.0
+- Languages: Mandarin, English
 
 {% include visitors.md %}

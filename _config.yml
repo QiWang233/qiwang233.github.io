@@ -26,7 +26,7 @@ favicon_dark: ./assets/profile-portrait.jpg
 enable_footnote: false
 
 visitor_map:
-  enabled: true
+  enabled: false
   mapmyvisitors_id: "tnkVSSkrxSOsoFq7noS2qT82YiWDMIEh3VVala30MHA"
 
 exclude:

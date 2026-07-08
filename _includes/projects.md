@@ -11,7 +11,7 @@
   </div>
   <div class="col-sm-9">
     <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131">Target-Balanced Score Distillation</a></div>
-    <div class="author"><strong>Qi Wang</strong> et al.</div>
+    <div class="author">Zhou Xu, <strong>Qi Wang</strong>, Yuxiao Yang, Luyuan Zhang, Zhang Liang, Yang Li</div>
     <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
     <div class="links">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">AAAI</a>
@@ -34,7 +34,7 @@
   </div>
   <div class="col-sm-9">
     <div class="title"><a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11182.pdf">DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition</a></div>
-    <div class="author"><strong>Qi Wang</strong> et al.</div>
+    <div class="author"><strong>Qi Wang</strong>, Zhou Xu, Yuming Lin, Jingtao Ye, Hongsheng Li, Guangming Zhu, Syed Afaq Ali Shah, Mohammed Bennamoun, Liang Zhang</div>
     <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11182.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
@@ -57,8 +57,8 @@
     <abbr class="badge">ICSMD 2023</abbr>
   </div>
   <div class="col-sm-9">
-    <div class="title"><a href="https://doi.org/10.1109/ICSMD60522.2023.10490884">A Multimodal Gesture Recognition Dataset for DeskTop Human-Computer Interaction</a></div>
-    <div class="author"><strong>Qi Wang</strong> et al.</div>
+    <div class="title"><a href="https://arxiv.org/abs/2401.03828">A Multimodal Gesture Recognition Dataset for Desktop Human-Computer Interaction</a></div>
+    <div class="author"><strong>Qi Wang</strong>, Fengchao Zhu, Guangming Zhu, Liang Zhang, Ning Li, Eryang Gao</div>
     <div class="periodical"><em>International Conference on Sensing, Measurement & Data Analytics in the Era of Artificial Intelligence, <strong>ICSMD Oral</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2401.03828" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
