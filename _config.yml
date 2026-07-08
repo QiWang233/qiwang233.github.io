@@ -20,8 +20,8 @@ github_link: https://github.com/QiWang233
 
 # Images
 avatar: ./assets/profile-portrait.jpg
-favicon: ./assets/profile-portrait.jpg
-favicon_dark: ./assets/profile-portrait.jpg
+favicon: ./assets/favicons/favicon-q-monogram.svg
+favicon_dark: ./assets/favicons/favicon-q-monogram.svg
 
 enable_footnote: false
 
