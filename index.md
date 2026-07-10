@@ -31,16 +31,15 @@ My research journey began with event-based vision and multimodal perception, exp
   - Led the team to second place among 180 teams.
   - Built an autonomous logistics vehicle using STM32, NVIDIA Jetson Nano, ROS, visual perception, obstacle avoidance, and path planning.
 
-## Selected Honors and Awards
-
-- Outstanding Graduate Student, 2023 - 2025
-- Outstanding Graduate Student Leader, 2023 - 2025, Top 5%
-- National First Prize, National University Students Smart Car Race, 2021
-- National First Prize, 2nd Aerospace Cup Mobile Robot AI Innovation Technology Challenge, 2021
-
 ## Education
 
 - \[2022.09 - 2025.06\]: M.E., Software Engineering, <a href="https://www.xidian.edu.cn/">Xidian University</a>, China
 - \[2018.09 - 2022.06\]: B.E., Communication Engineering, <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>, China
+
+## Selected Honors and Awards
+
+- Outstanding Graduate Student Leader, 2023 - 2025, Top 5%
+- National First Prize, National University Students Smart Car Race, 2021
+- National First Prize, 2nd Aerospace Cup Mobile Robot AI Innovation Technology Challenge, 2021
 
 {% include visitors.md %}
