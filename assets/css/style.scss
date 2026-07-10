@@ -130,6 +130,25 @@ header h1 {
   font-weight: 400;
 }
 
+.position strong {
+  color: var(--qw-navy);
+  font-weight: 650;
+}
+
+.profile-primary,
+.profile-secondary {
+  width: 100%;
+}
+
+.profile-secondary {
+  margin-top: 0.7rem;
+}
+
+.profile-secondary .position {
+  color: var(--qw-gray-light);
+  font-size: 0.78rem;
+}
+
 .affiliation {
   display: block;
   color: var(--qw-blue);
