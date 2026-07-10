@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am Qi Wang (王奇), currently a visiting student at <a href="https://www.eitech.edu.cn/en/">Eastern Institute of Technology, Ningbo</a>. I received my M.E. in Software Engineering from <a href="https://www.xidian.edu.cn/">Xidian University</a> and my B.E. in Communication Engineering from <a href="https://www.zjut.edu.cn/">Zhejiang University of Technology</a>.
 
-Looking ahead, I hope to pursue doctoral research on embodied intelligence and intelligent agents, with the goal of developing systems that can perceive, reason, learn, and act reliably in complex real-world environments. My strength lies in combining research ideas with end-to-end implementation, from dataset construction and algorithm development to system integration and empirical evaluation.
+Looking ahead, I hope to pursue doctoral research on embodied intelligence and intelligent agents, with the goal of developing robots that can perceive, reason, learn, and act reliably in complex real-world environments. My strength lies in building end-to-end robotic systems and intelligent agents that connect perception, reasoning, planning, and action.
 
 <div class="phd-opportunity" role="note" aria-label="Ph.D. opportunity status">
   <span class="phd-opportunity-label">Seeking Ph.D. Opportunities</span>
