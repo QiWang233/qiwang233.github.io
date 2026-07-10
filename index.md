@@ -23,7 +23,7 @@ Looking ahead, I am particularly interested in embodied intelligence and robotic
 
 ## Research & Industry Experience
 
-- \[2025.12 - 2026.07\]: **Visiting Student**, <a href="https://www.eitech.edu.cn/en/">Eastern Institute of Technology, Ningbo</a>, China
+- \[2025.12 - 2026.07\]: **Visiting Student**, HAI Lab, <a href="https://www.eitech.edu.cn/en/">Eastern Institute of Technology, Ningbo</a>, China
   - Conducting research on Embodied AI, LLM-based agents, and robotics.
 
 - \[2023.05 - 2023.10\]: **Algorithm Engineer**, China Institute of Marine Technology & Economy, Beijing, China
