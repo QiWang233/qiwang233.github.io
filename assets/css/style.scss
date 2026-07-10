@@ -98,10 +98,20 @@ a:hover {
 header {
   position: sticky;
   top: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
   align-self: start;
   padding-top: 3rem;
   padding-right: 1.5rem;
   border-right: 1px solid var(--qw-border);
+  text-align: center;
+}
+
+.profile-details {
+  width: 100%;
+  min-width: 0;
+  text-align: center;
 }
 
 header h1 {
@@ -129,6 +139,7 @@ header h1 {
 
 .email {
   display: block;
+  max-width: 100%;
   margin: 8px 0 0;
   color: var(--qw-gray);
   font-family: Inter, monospace;
@@ -146,6 +157,7 @@ header h1 {
   align-items: center;
   flex-wrap: wrap;
   gap: 12px;
+  justify-content: center;
   margin-top: 16px;
 }
 
@@ -166,6 +178,13 @@ header h1 {
   transform: translateY(-2px) scale(1.1);
   color: var(--qw-blue) !important;
   opacity: 1;
+}
+
+.image.avatar {
+  display: flex;
+  width: 100%;
+  max-width: 245px;
+  justify-content: center;
 }
 
 .image.avatar img {
@@ -493,11 +512,15 @@ section ul li ul li::before {
 
   header {
     position: static;
-    display: grid;
-    justify-items: start;
+    align-items: center;
     border-right: 0;
     padding-right: 0;
     padding-top: 1.5rem;
+    text-align: center;
+  }
+
+  .image.avatar {
+    max-width: 230px;
   }
 
   .image.avatar img {
