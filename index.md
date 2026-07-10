@@ -10,7 +10,7 @@ Looking ahead, I am particularly interested in embodied intelligence and robotic
 
 <div class="phd-opportunity" role="note" aria-label="Ph.D. opportunity status">
   <span class="phd-opportunity-label">Seeking Ph.D. Opportunities</span>
-  <strong class="phd-opportunity-term">Spring or Fall 2027</strong>
+  <strong class="phd-opportunity-term">Spring / Fall 2027</strong>
 </div>
 
 ## Research Interests

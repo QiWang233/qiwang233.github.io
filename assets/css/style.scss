@@ -231,15 +231,15 @@ section > p:first-of-type {
   justify-content: space-between;
   gap: 16px;
   margin: 1.25rem 0 0.25rem;
-  border: 1px solid #bfdbfe;
-  border-left: 4px solid var(--qw-blue);
+  border: 1px solid #fecaca;
+  border-left: 4px solid #dc2626;
   border-radius: 8px;
-  background: #eff6ff;
+  background: #fef2f2;
   padding: 12px 14px;
 }
 
 .phd-opportunity-label {
-  color: #1d4ed8;
+  color: #b91c1c;
   font-size: 0.85rem;
   font-weight: 700;
   line-height: 1.4;
@@ -247,7 +247,7 @@ section > p:first-of-type {
 
 .phd-opportunity-term {
   flex-shrink: 0;
-  color: var(--qw-navy);
+  color: #7f1d1d;
   font-size: 0.88rem;
   font-weight: 700;
 }
@@ -651,13 +651,17 @@ section ul li ul li::before {
   }
 
   .phd-opportunity {
-    border-color: #1e40af;
-    border-left-color: #60a5fa;
-    background: #0c1b33;
+    border-color: #7f1d1d;
+    border-left-color: #f87171;
+    background: #2a1114;
   }
 
   .phd-opportunity-label {
-    color: #93c5fd;
+    color: #fca5a5;
+  }
+
+  .phd-opportunity-term {
+    color: #fee2e2;
   }
 
   .publications ol.bibliography li .links a.btn {
