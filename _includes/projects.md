@@ -11,8 +11,8 @@
   </div>
   <div class="col-sm-9">
     <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131">Target-Balanced Score Distillation</a></div>
-    <div class="author">Zhou Xu, <strong>Qi Wang</strong>, Yuxiao Yang, Luyuan Zhang, Zhang Liang, Yang Li</div>
-    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026.</em></div>
+    <div class="author">Zhou Xu<sup>*</sup>, <strong>Qi Wang<sup>*</sup></strong>, Yuxiao Yang, Luyuan Zhang, Zhang Liang, Yang Li</div>
+    <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026. <sup>*</sup> Equal contribution.</em></div>
     <div class="links">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">AAAI</a>
       <a href="https://arxiv.org/abs/2511.11710" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
