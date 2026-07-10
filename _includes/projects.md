@@ -1,4 +1,6 @@
-<h2 id="publications">Publications <span class="section-note">(<em>Selected</em>)</span></h2>
+<h2 id="publications">Selected Publications</h2>
+
+<p class="section-intro">My selected work spans generative 3D modeling, event-based perception, and multimodal interaction.</p>
 
 <div class="publications">
 <ol class="bibliography">
@@ -14,8 +16,9 @@
     <div class="author">Zhou Xu<sup>*</sup>, <strong>Qi Wang<sup>*</sup></strong>, Yuxiao Yang, Luyuan Zhang, Zhang Liang, Yang Li</div>
     <div class="periodical"><em>The 40th Annual AAAI Conference on Artificial Intelligence, <strong>AAAI</strong>, 2026. <sup>*</sup> Equal contribution.</em></div>
     <div class="links">
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">AAAI</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38131" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Paper</a>
       <a href="https://arxiv.org/abs/2511.11710" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://github.com/XiaocatMomo/TBSD" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
     </div>
     <div class="paper-tags">
       <span class="paper-tag">Text-to-3D</span>
@@ -37,7 +40,7 @@
     <div class="author"><strong>Qi Wang</strong>, Zhou Xu, Yuming Lin, Jingtao Ye, Hongsheng Li, Guangming Zhu, Syed Afaq Ali Shah, Mohammed Bennamoun, Liang Zhang</div>
     <div class="periodical"><em>European Conference on Computer Vision, <strong>ECCV</strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11182.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
+      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11182.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Paper</a>
       <a href="https://github.com/QiWang233/DailyDVS-200" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
       <a href="https://arxiv.org/abs/2407.05106" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">arXiv</a>
     </div>
