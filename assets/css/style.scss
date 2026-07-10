@@ -343,7 +343,7 @@ section ul li ul li::before {
   font-family: Inter, sans-serif;
   font-size: 9.5px;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0;
   padding: 2px 7px;
 }
 
@@ -679,6 +679,16 @@ section ul li ul li::before {
   .publications ol.bibliography li .title a,
   .publications ol.bibliography li .author strong {
     color: #f1f5f9;
+  }
+
+  .publications ol.bibliography li .abbr abbr,
+  .badge {
+    background: #1e3a5f;
+    color: #fff;
+  }
+
+  .publications ol.bibliography li .periodical {
+    color: #94a3b8;
   }
 
   .publications ol.bibliography li .title a:hover {

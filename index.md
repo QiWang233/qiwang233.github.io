@@ -32,6 +32,10 @@ Looking ahead, I am particularly interested in embodied intelligence and robotic
 
 ## Selected Projects
 
+- \[2026.04 - Present\]: **Embodied Agent System**, Core Contributor
+  - Designed and implemented an embodied AI system that enables LLM agents to interact with a real robot through tool calls.
+  - Developed structured evaluation and a retrieval-backed scene graph that converts physical observations into actionable context.
+
 - \[2021.03 - 2021.08\]: **National University Students Smart Car Race**, National First Prize
   - Led the team to second place among 180 teams.
   - Built an autonomous logistics vehicle using STM32, NVIDIA Jetson Nano, ROS, visual perception, obstacle avoidance, and path planning.
