@@ -103,7 +103,8 @@ header {
   flex-direction: column;
   align-self: start;
   padding-top: 3rem;
-  padding-right: 1.5rem;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
   border-right: 1px solid var(--qw-border);
   text-align: center;
 }
@@ -515,6 +516,7 @@ section ul li ul li::before {
     align-items: center;
     border-right: 0;
     padding-right: 0;
+    padding-left: 0;
     padding-top: 1.5rem;
     text-align: center;
   }
