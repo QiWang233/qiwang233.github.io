@@ -122,41 +122,6 @@ header h1 {
   font-weight: 700;
 }
 
-.position {
-  display: block;
-  margin: 0 0 2px;
-  color: var(--qw-gray);
-  font-size: 0.82rem;
-  font-weight: 400;
-}
-
-.position strong {
-  color: var(--qw-navy);
-  font-weight: 650;
-}
-
-.profile-primary,
-.profile-secondary {
-  width: 100%;
-}
-
-.profile-secondary {
-  margin-top: 0.7rem;
-}
-
-.profile-secondary .position {
-  color: var(--qw-gray-light);
-  font-size: 0.78rem;
-}
-
-.affiliation {
-  display: block;
-  color: var(--qw-blue);
-  font-size: 0.82rem;
-  font-weight: 500;
-  line-height: 1.6;
-}
-
 .email {
   display: block;
   max-width: 100%;
@@ -652,10 +617,6 @@ section ul li ul li::before {
 
   h2::after {
     background: linear-gradient(90deg, #60a5fa 0%, #1e293b 100%);
-  }
-
-  .affiliation {
-    color: #60a5fa;
   }
 
   header {

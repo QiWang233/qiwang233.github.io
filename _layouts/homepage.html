@@ -21,14 +21,6 @@
 
         <div class="profile-details">
           <h1>{{ site.title }}</h1>
-          <div class="profile-primary">
-            <p class="position">{{ site.position }}{% if site.lab %}, <strong>{{ site.lab }}</strong>{% endif %}</p>
-            <a class="affiliation" href="{{ site.affiliation_link }}">{{ site.affiliation }}</a>
-          </div>
-          <div class="profile-secondary">
-            <p class="position">{{ site.degree }}</p>
-            <a class="affiliation" href="{{ site.subaffiliation_link }}">{{ site.subaffiliation }}</a>
-          </div>
           <a class="email" href="mailto:{{ site.email }}">{{ site.email }}</a>
 
           <div class="social-icons" aria-label="Academic profiles">
