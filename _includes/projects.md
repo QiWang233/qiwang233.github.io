@@ -8,7 +8,7 @@
 <li>
 <div class="pub-row mod-hci-row">
   <div class="col-sm-3 abbr">
-    <img class="paper-thumb" src="{{ '/assets/publications/thea-thumbnail.jpg' | relative_url }}" alt="Thea embodied agent controlling a physical robot" loading="lazy" />
+    <img class="paper-thumb" src="{{ '/assets/publications/thea-thumbnail.jpg' | relative_url }}" alt="Overview of the Thea harness and three supported robot platforms" loading="lazy" />
     <abbr class="badge">TR 2026</abbr>
   </div>
   <div class="col-sm-9">
