@@ -1,9 +1,34 @@
 <h2 id="publications">Selected Publications</h2>
 
-<p class="section-intro">My selected work spans generative 3D modeling, event-based perception, and multimodal interaction.</p>
+<p class="section-intro">My selected work spans embodied agents, generative 3D modeling, event-based perception, and multimodal interaction.</p>
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row mod-hci-row">
+  <div class="col-sm-3 abbr">
+    <img class="paper-thumb" src="{{ '/assets/publications/thea-thumbnail.jpg' | relative_url }}" alt="Thea embodied agent controlling a physical robot" loading="lazy" />
+    <abbr class="badge">TR 2026</abbr>
+  </div>
+  <div class="col-sm-9">
+    <div class="title"><a href="https://eit-hai.github.io/thea/paper.pdf">Towards the Harness of Embodied Agents</a></div>
+    <div class="author"><strong>Qi Wang</strong>, Tianyi Wang, Chengyang Li, Shikun Ban, Yurun Chen, Yizhong Ge, Jason Qin, Chengtai Li, Wentao Zhu</div>
+    <div class="periodical"><em>Technical Report, 2026.</em></div>
+    <div class="links">
+      <a href="https://eit-hai.github.io/thea/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Project</a>
+      <a href="https://eit-hai.github.io/thea/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Paper</a>
+      <a href="https://github.com/EIT-HAI/Thea" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+      <a href="https://youtu.be/Sm9jFmfnOF0" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Demo</a>
+    </div>
+    <div class="paper-tags">
+      <span class="paper-tag tag-hci">Embodied Agents</span>
+      <span class="paper-tag tag-hci">Robotics</span>
+      <span class="paper-tag tag-hci">Agent Harness</span>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row mod-generative-row">
