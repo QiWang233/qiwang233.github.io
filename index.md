@@ -32,8 +32,7 @@ Looking ahead, I am particularly interested in embodied intelligence and robotic
 
 ## Selected Projects
 
-- \[2026.04 - 2026.08\]: **Thea: Towards the Harness of Embodied Agents**, First Author & Core Contributor<br>
-  \[[Project](https://eit-hai.github.io/thea/)\] \[[Paper](https://eit-hai.github.io/thea/paper.pdf)\] \[[Code](https://github.com/EIT-HAI/Thea)\] \[[Demo](https://youtu.be/Sm9jFmfnOF0)\]
+- \[2026.04 - 2026.08\]: **Thea: Towards the Harness of Embodied Agents**, First Author & Core Contributor
   - Co-developed an open-source harness that brings coding-agent capabilities to physical robots through tool use, context engineering, memory, and skills.
   - Developed structured evaluation and a retrieval-backed scene graph that transforms physical observations into actionable context.
 
