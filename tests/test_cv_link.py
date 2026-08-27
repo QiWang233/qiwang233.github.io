@@ -18,6 +18,7 @@ class CvLinkTest(unittest.TestCase):
         self.assertIn("{% if site.cv_link %}", layout)
         self.assertIn("{{ site.cv_link | relative_url }}", layout)
         self.assertIn('aria-label="Curriculum Vitae (PDF)"', layout)
+        self.assertIn('class="ai ai-cv"', layout)
         self.assertTrue(CV_PATH.is_file())
         self.assertTrue(CV_PATH.read_bytes().startswith(b"%PDF-"))
 
