@@ -29,6 +29,11 @@
               <i class="ai ai-google-scholar" aria-hidden="true"></i>
             </a>
             {% endif %}
+            {% if site.cv_link %}
+            <a href="{{ site.cv_link | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Curriculum Vitae (PDF)" title="Curriculum Vitae">
+              <i class="fas fa-file-pdf" aria-hidden="true"></i>
+            </a>
+            {% endif %}
             {% if site.github_link %}
             <a href="{{ site.github_link }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub" title="GitHub">
               <i class="fab fa-github" aria-hidden="true"></i>

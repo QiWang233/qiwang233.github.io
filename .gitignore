@@ -2,3 +2,4 @@ screenshots/
 assets/profile.jpg
 qiwang-francis-site.zip
 *.pdf
+!assets/cv/Qi_Wang_CV.pdf

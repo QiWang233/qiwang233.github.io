@@ -12,6 +12,7 @@ canonical: https://qiwang233.github.io/
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=XaxvBocAAAAJ&hl=en
+cv_link: /assets/cv/Qi_Wang_CV.pdf
 github_link: https://github.com/QiWang233
 
 # Images
@@ -30,4 +31,3 @@ exclude:
   - qiwang-francis-site.zip
   - screenshots
   - assets/profile.jpg
-  - "*.pdf"
